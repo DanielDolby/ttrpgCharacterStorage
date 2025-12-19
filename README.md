@@ -10,3 +10,9 @@ Java based program to create and store characters for Daybreak ttrpg system
 - Include installer solution so that users do not have to build program themselves
 - Tooltips that inform users of the calculations performed
 - Potential dice rolling system to assist with online play
+
+## Technical Details
+- Will need classes for the character details for calculations to be performed
+- File handling to unpack zip files and read details, then reverse
+- Need to create dictionaries for spell and item objects
+- Classes will define the main classes with subclasses for the combinations
